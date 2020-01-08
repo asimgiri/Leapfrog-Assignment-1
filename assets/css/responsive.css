@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    .mockup {
+        display: none;
+    }
+    .container {
+        width: calc(85%) !important;
+    }
+    .header .container {
+        width: calc(90%) !important;
+    }
+}
